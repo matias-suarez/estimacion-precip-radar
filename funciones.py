@@ -16,7 +16,6 @@ Created on Wed Jun 1, 2021
 #             7) linear_to_db
 #             8) lat_lon_to_range_azimuth
 #             9) calculate_R_from_Z_R
-#             9) calculate_R_from_Z_R
 #            10) calculate_R_from_Z_ZDR_R
 #-----------------------------------------------------------------
 
